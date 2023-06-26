@@ -14,14 +14,9 @@ nav {
   background-color:  black;
   border-bottom: solid white 1px;
 }
-.title {
-  font-family: "Zen Dots", cursive;
-  color: white;
-  font-weight: 400;
-  font-size: 45px;
-  padding: 15px;
-  margin-left: 10px;
-  user-select: none;
+svg{
+height:45px;
+color:white:
 }
 .dot-typing {
   margin: 25px;
